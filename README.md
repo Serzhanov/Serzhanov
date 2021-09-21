@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Serzhanov
-- 👀 I’m interested either in money or money.
-- 🌱 I’m currently learning how to get money by doing nothing
-- 💞️ I’m looking to collaborate on ... smthing that should make either me or us richer
+- 👀 I’m interested in Data field.
+- 🌱 I’m currently learning as student L3 MIAGE.
+- 💞️ I’m looking to collaborate on ... smthing interesting
 - 📫 How to reach me ->just start to talk about money and i will appear from the ghost like ninja.
 
 If be srsly.Im looking for some interesting ideas that should motivate me to learn more,and do more.
