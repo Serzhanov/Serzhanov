@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Serzhanov
 - 👀 I’m interested in Data field.
-- 🌱 I’m currently learning as student L3 MIAGE.
+- 🌱 I’m currently seeking the internship
 - 💞️ I’m looking to collaborate on ... smthing interesting
-- 📫 How to reach me ->just start to talk about money and i will appear from the ghost like ninja.
+- 📫 How to reach me ->ns490367@gmail.com
 
 If be srsly.Im looking for some interesting ideas that should motivate me to learn more,and do more.
 
