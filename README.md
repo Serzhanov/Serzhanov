@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Serzhanov
-- 👀 I’m interested in Data field.
+- 👀 I’m interested in Data science/Software field.
 - 🌱 I’m currently seeking the internship
 - 💞️ I’m looking to collaborate on ... smthing interesting
 - 📫 How to reach me ->ns490367@gmail.com
