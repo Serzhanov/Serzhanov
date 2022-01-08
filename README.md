@@ -34,10 +34,14 @@
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" />
 
 <br />
+<div>
 <a href="https://github-readme-stats.vercel.app/api?username=Serzhanov&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Serzhanov&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serzhanov&theme=tokyonight)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Serzhanov&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serzhanov&hide=php&theme=tokyonight" />
+</a>
+</div>
 <!---
 Serzhanov/Serzhanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
