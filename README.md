@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-<img align="left"  width="22px" src="https://serzhanov.github.io/XHTM_CV_site/" />
-<img align="left"  | LinkedIn" width="22px" src="https://www.linkedin.com/in/nurbek-serzhanov-6bbab9221"/>
-<img align="left"  | Instagram" width="22px" src="https://www.instagram.com/nurbek.serzhanov/" />
+<img align="left"  alt="Site" width="22px" src="https://serzhanov.github.io/XHTM_CV_site/" />
+<img align="left"  alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/nurbek-serzhanov-6bbab9221"/>
+<img align="left"  alt="Instagram" width="22px" src="https://www.instagram.com/nurbek.serzhanov/" />
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
