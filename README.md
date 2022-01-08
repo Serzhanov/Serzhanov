@@ -6,7 +6,7 @@
 
 
 ### Connect with me:
-<a href=""https://serzhanov.github.io/XHTM_CV_site/"">
+<a href=""https://serzhanov.github.io/XHTM_CV_site/">
     <img align="center"  alt="Site" width="22px" src="https://camo.githubusercontent.com/4133dc1cd4511d4a292b84ce10e52e4ed92569fb2a8165381c9c47be5edc2796/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f6769746875622e706e67"/></a>
     
 <a href="https://www.linkedin.com/in/nurbek-serzhanov-6bbab9221">
@@ -37,7 +37,9 @@
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serzhanov&theme=tokyonight)
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Serzhanov&count_private=true&show_icons=true&theme=tokyonight)
+<a href="https://github-readme-stats.vercel.app/api?username=Serzhanov&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Serzhanov&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
 <br />
 <!---
 Serzhanov/Serzhanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
