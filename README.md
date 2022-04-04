@@ -17,6 +17,10 @@
   <img align="center"  alt="Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
 </a>
 
+<a href="https://www.kaggle.com/nurbekserzhanov">
+  <img align="center"  alt="Instagram" width="22px" src="https://camo.githubusercontent.com/4c0a06cc5403c8c5ae65ecc12e3da2e86ff3488bd46ad14e326f32ac4175df58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6167676c652d3230424546462e7376673f6c6f676f3d6b6167676c65267374796c653d666c61742d737175617265266c6f676f436f6c6f723d7768697465" />
+</a>
+
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
